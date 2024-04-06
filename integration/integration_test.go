@@ -5,7 +5,7 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/AlekSi/submodules-test/v2/internal/pack"
+	"github.com/AlekSi/submodules-test/v3/internal/pack"
 )
 
 func TestIntegration(t *testing.T) {
