@@ -9,7 +9,7 @@ import (
 )
 
 func TestIntegration(t *testing.T) {
-	_ = pack.A{}
+	_ = pack.B{}
 
 	assert.True(t, true)
 }
