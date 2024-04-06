@@ -1,11 +1,11 @@
-module github.com/AlekSi/submodules-test/integration
+module github.com/AlekSi/submodules-test/v2/integration
 
 go 1.22.2
 
-replace github.com/AlekSi/submodules-test => ../
+replace github.com/AlekSi/submodules-test/v2 => ../
 
 require (
-	github.com/AlekSi/submodules-test v0.0.0-00010101000000-000000000000
+	github.com/AlekSi/submodules-test/v2 v2.0.0-00010101000000-000000000000
 	github.com/stretchr/testify v1.9.0
 )
 
