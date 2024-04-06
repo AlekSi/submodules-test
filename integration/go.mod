@@ -5,6 +5,7 @@ go 1.22.2
 replace github.com/AlekSi/submodules-test/v3 => ../
 
 require (
+	github.com/AlekSi/submodules-test v1.0.0
 	github.com/AlekSi/submodules-test/v3 v3.0.0-00010101000000-000000000000
 	github.com/stretchr/testify v1.9.0
 )
