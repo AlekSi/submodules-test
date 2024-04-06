@@ -1,3 +1,3 @@
 package pack
 
-type A struct{}
+type B struct{}

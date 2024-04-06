@@ -1,4 +1,4 @@
-module github.com/AlekSi/submodules-test
+module github.com/AlekSi/submodules-test/v2
 
 go 1.22
 
